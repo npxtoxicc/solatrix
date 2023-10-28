@@ -1,0 +1,2 @@
+[11-Oct-2023 06:05:04 Europe/Istanbul] PHP Warning:  Undefined array key "subject" in /home/pcpbrlzt/public_html/edugame/assets/mail.php on line 17
+[11-Oct-2023 06:05:04 Europe/Istanbul] PHP Warning:  Undefined array key "message" in /home/pcpbrlzt/public_html/edugame/assets/mail.php on line 19
